@@ -1,0 +1,30 @@
+[2023-10-12 09:15:25] INFO: Sistem başlatıldı
+[2023-10-12 09:15:27] INFO: Konfigürasyon dosyası yüklendi
+[2023-10-12 09:15:30] INFO: Veritabanı bağlantısı kuruldu
+[2023-10-12 09:16:02] WARNING: Yüksek bellek kullanımı: %82
+[2023-10-12 09:16:10] ERROR: Veritabanı sorgusu zaman aşımına uğradı
+[2023-10-12 09:16:45] INFO: Yeniden bağlantı denemesi yapılıyor
+[2023-10-12 09:16:50] INFO: Veritabanı bağlantısı tekrar kuruldu
+[2023-10-13 09:17:05] INFO: Kullanıcı girişi başarılı (kullanici_id=1023)
+[2023-10-13 09:17:40] WARNING: Disk kullanım oranı %88
+[2023-10-13 09:18:12] INFO: Zamanlanmış görev başlatıldı
+[2023-10-13 09:18:30] ERROR: Dosya bulunamadı: rapor_ekim.csv
+[2023-10-13 09:18:55] INFO: Yedekleme işlemi başlatıldı
+[2023-10-13 09:19:18] INFO: Oturum sonlandırıldı (kullanici_id=1023)
+[2023-10-14 09:19:20] INFO: Yedekleme başarıyla tamamlandı
+[2023-10-14 09:19:25] ERROR: Dosya bulunamadı: rapor_ekim.csv
+[2023-10-14 09:19:45] WARNING: API yanıt süresi yüksek (1200ms)
+[2023-10-14 09:20:40] ERROR: Yetkisiz erişim denemesi tespit edildi
+[2023-10-15 09:20:50] ERROR: Yetkisiz erişim denemesi tespit edildi
+[2023-10-15 09:21:05] WARNING: API yanıt süresi yüksek (1200ms)
+[2023-10-15 09:21:10] INFO: Güvenlik olayı loglandı
+[2023-10-15 09:21:15] INFO: Yeni kullanıcı kaydı oluşturuldu (kullanici_id=1024)
+[2023-10-15 09:22:00] WARNING: CPU kullanım oranı %90
+[2023-10-15 09:22:30] INFO: Sistem kaynakları normal seviyeye döndü
+[2023-10-15 09:22:40] WARNING: CPU kullanım oranı %90
+[2023-10-15 09:23:05] INFO: Günlük rapor oluşturuldu
+[2023-10-15 09:23:35] INFO: Oturum sonlandırıldı (kullanici_id=1024)
+[2023-10-16 09:23:40] ERROR: E-posta gönderimi başarısız
+[2023-10-16 09:24:10] INFO: E-posta gönderimi tekrar deneniyor
+[2023-10-16 09:24:20] INFO: E-posta başarıyla gönderildi
+[2023-10-16 09:25:00] INFO: Sistem normal şekilde çalışıyor
